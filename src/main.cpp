@@ -1,11 +1,7 @@
 #include "raylib.h"
 #include "raymath.h"
 
-#include <iomanip>
-#include <sstream>
-#include <stdexcept>
 #include <string>
-#include <vector>
 
 using namespace std;
 
